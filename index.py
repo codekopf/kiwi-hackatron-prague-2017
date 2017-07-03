@@ -7,7 +7,7 @@ def main():
     """ Set destination
     """
     flyFrom = 'PRG'  # Prague
-    flyTo = 'TPS'  # Palermo
+    flyTo = 'TPS'  # Trapani
 
     dateFrom = '30/06/2017'
     dateTo = '30/04/2018'
